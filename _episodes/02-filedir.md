@@ -109,7 +109,6 @@ Underneath `/Users`,
 we find one directory for each user with an account on Nelle's machine,
 her colleagues the Mummy and Wolfman.  
 
-![Home Directories](../fig/home-directories.svg)
 
 The Mummy's files are stored in `/Users/imhotep`,
 Wolfman's in `/Users/larry`,
