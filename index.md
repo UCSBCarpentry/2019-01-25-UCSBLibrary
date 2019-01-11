@@ -48,12 +48,11 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 
-<h4>Registration.</h4>
+<h2>Registration.</h2>
+
 [Please register using EventBrite](https://www.eventbrite.com/e/software-carpentry-125-26-2019-tickets-54619899590)
 
-<h4>Do not forget to fill out the  
-<a href="{{site.amy_site}}/submit">Carpentry workshop form</a> to let the mothership know about our workshop
-and our administrator may contact you if we need any extra information.</h4>
+
 
 <h2 id="general">General Information</h2>
 
