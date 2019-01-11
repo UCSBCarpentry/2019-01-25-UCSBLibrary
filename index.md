@@ -516,12 +516,12 @@ and our administrator may contact you if we need any extra information.</h4>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 
-<!--
+
 <div id="python"> {% comment %} Start of 'Python' section. Remove the third paragraph if
            the workshop will teach Python using something other than
            the Jupyter notebook.
            Details at https://jupyter-notebook.readthedocs.io/en/stable/notebook.html#browser-compatibility {% endcomment %}
-  <h3>Python</h3>
+<!--  <h3>Python</h3>
 
   <p>
     <a href="https://python.org">Python</a> is a popular language for
@@ -600,16 +600,16 @@ and our administrator may contact you if we need any extra information.</h4>
         </li>
       </ol>
     </div>
-  </div>
+  </div> -->
 {% comment %}
   <p>
   Once you are done installing the software listed above,
   please go to <a href="setup/index.html">this page</a>,
   which has instructions on how to test that everything was installed correctly.
   </p>
-{% endcomment %}
+{% endcomment %} 
 </div> {% comment %} End of 'Python' section. {% endcomment %}
--->
+
 
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
@@ -664,16 +664,17 @@ and our administrator may contact you if we need any extra information.</h4>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
 
-<div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
-<!--  <h3>SQLite</h3>
-
+<!-- <div id="sql"> {% comment %} Start of 'SQLite' section. {% endcomment %}
+<h3>SQLite</h3>
+<!--
   <p>
     SQL is a specialized programming language used with databases.  We
     use a simple database manager called
     <a href="https://www.sqlite.org/">SQLite</a> in our lessons.
   </p>
-
-  <div class="row">
+-->
+<!--
+<div class="row">
     <div class="col-md-4">
       <h4 id="sql-windows">Windows</h4>
       <p>
@@ -704,8 +705,9 @@ and our administrator may contact you if we need any extra information.</h4>
       </p>
     </div>
   </div>
-
-  <p><strong>If you installed Anaconda, it also has a copy of SQLite
+-->
+<!--
+<p><strong>If you installed Anaconda, it also has a copy of SQLite
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
 </div> -->
@@ -719,7 +721,7 @@ and our administrator may contact you if we need any extra information.</h4>
     web browser. <em>Note:</em> this is a Java program that runs on your machine (not in the cloud).
     It runs inside a web browser, but no web connection is needed.
   </p>
-
+<!--
   <div class="row">
     <div class="col-md-4">
       <h4 id="openrefine-windows">Windows</h4>
