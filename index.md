@@ -52,7 +52,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 [Please register using EventBrite](https://www.eventbrite.com/e/software-carpentry-125-26-2019-tickets-54619899590)
 
-<strong>SOLD OUT! We will open registration for a second workshop soon.  If you would like to be on a waiting list,
+<strong>SOLD OUT! We will open registration for a February 21-22 workshop soon.  If you would like to be on a waiting list,
   please email collaboratory@library.ucsb.edu</strong>
 
 <h2 id="general">General Information</h2>
