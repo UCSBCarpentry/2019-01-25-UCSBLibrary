@@ -2,7 +2,7 @@ Hello everyone.
 
 The Collaboratory is pleased announce a 2-day Software Carpentry Workshop to be presented Friday and Saturday, January 25-26.
 
-As part of larger data science efforts on campus, the Collaboratory will be hosting a 2-day Software Carpentry Workshop to be presented Friday and Saturday, January 25-26. The Library is thrilled to collaborate with Enterprise Technology Services (ETS), Center for Scientific Computing (CSC), the department of Ecology, Evolution, and Marine Biology (EEMB), and the Cheadle Center for Biodiversity and Ecological Restoration (EEMB) to help present this workshop.
+As part of larger data science efforts on campus, the Collaboratory will be hosting a 2-day Software Carpentry Workshop to be presented Friday and Saturday, January 25-26. The Library is thrilled to collaborate with Enterprise Technology Services (ETS), Center for Scientific Computing (CSC), the department of Ecology, Evolution, and Marine Biology (EEMB), and the Cheadle Center for Biodiversity and Ecological Restoration (CCBER) to help present this workshop.
 
 Software Carpentry aims to help researchers get their work done in less time and with less pain by teaching them basic research computing skills. This hands-on workshop will cover basic concepts and tools, including command line scripting, version control, data management, and task automation with the R statistical programming language. Participants will be encouraged to help one another and to apply what they have learned to their own research problems.
 
