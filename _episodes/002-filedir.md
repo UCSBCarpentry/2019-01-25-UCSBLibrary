@@ -418,8 +418,7 @@ data-shell/
 
 Your output should be a list of all the files and sub-directories on your
 Desktop, including the `data-shell` directory you downloaded at
-the [setup for this lesson]({{ page.root }}{% link setup.md %}).  Take a look at your Desktop to confirm that
-your output is accurate.  
+the [setup for this lesson](http://swcarpentry.github.io/shell-novice/setup.html).  Take a look at your Desktop to confirm that your output is accurate.  
 
 As you may now see, using a bash shell is strongly dependent on the idea that
 your files are organized in a hierarchical file system.
