@@ -12,7 +12,11 @@ template for creating websites for workshops.
 
 ## Don't forget to do this:
 ~~3.  Once you are done, please also [let us know][email] the workshop URL.~~ 
-If this is a self-organised workshop, you should also [fill in the self-organized workshop form][self-organized-workshop-form] (if you have not already done so), so we can keep track of all workshops. We build the list of workshops on our websites from the data included in your `index.md` page. We can only do that if you [customize][customization] that page correctly *and* let us know the workshop URL.
+If this is a self-organised workshop, you should also [fill in the self-organized workshop form][self-organized-workshop-form] (if you have not already done so), so we can keep track of all workshops. 
+
+oddly--the above link seems to be an ordinary request form, not a self-organized request form.
+
+We build the list of workshops on our websites from the data included in your `index.md` page. We can only do that if you [customize][customization] that page correctly *and* let us know the workshop URL.
 
 ## Setting Up a Separate Repository for Learners
 
