@@ -286,7 +286,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   'tools/check' as well.
 {% endcomment %}
 
-<h2 id="setup">Setup</h2>
+<h2 id="setup">Setup Before the Workshop</h2>
 
 <p>
   To participate in a
@@ -301,6 +301,14 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   you will need access to the software described below.
   In addition, you will need an up-to-date web browser.
 </p>
+
+<p>For this workshop's lessons, please download the following data to your desktop:</p>
+<ul>
+  <li>Bash: <a href="data/data-shell.zip">data-shell.zip</a></li>
+  <li>Bash: <a href="data/gapminder-FiveYearData.csv">gapminder-FiveYearData.csv</a></li>
+  <li>Bash: <a href="data/gapminder_data.csv">gapminder_data.csv</a></li>
+</ul>
+
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
