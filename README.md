@@ -3,9 +3,16 @@
 This repository was created from The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]'s)
 template for creating websites for workshops.
 
+###Prep List###
+  - 1/22 team session
+    - pair up to practice our sections
+  - 1/23 team session
+    - in rm 1312 to practice with a/v equipment
+
 
 ## Don't forget to do this:
-3.  Once you are done, please also [let us know][email] the workshop URL. If this is a self-organised workshop, you should also [fill in the self-organized workshop form][self-organized-workshop-form] (if you have not already done so), so we can keep track of all workshops. We build the list of workshops on our websites from the data included in your `index.md` page. We can only do that if you [customize][customization] that page correctly *and* let us know the workshop URL.
+~~3.  Once you are done, please also [let us know][email] the workshop URL.~~ 
+If this is a self-organised workshop, you should also [fill in the self-organized workshop form][self-organized-workshop-form] (if you have not already done so), so we can keep track of all workshops. We build the list of workshops on our websites from the data included in your `index.md` page. We can only do that if you [customize][customization] that page correctly *and* let us know the workshop URL.
 
 ## Setting Up a Separate Repository for Learners
 
