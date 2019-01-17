@@ -8,8 +8,7 @@ Most importantly, install all of the software that we will be using.  There are
 [detailed setup instuctions](https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/index.html#setup) 
 on the workshop website.
 
-Please also review the 
-[Carpentry Code of Conduct](https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/CODE_OF_CONDUCT.html ).  
+Please also review the [Carpentry Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).  
 We are dedicated to creating a respectful and inclusive learning environment for everyone present.  
   
 Coffee, tea, and a light breakfast will be served both days.  Lunch on 
