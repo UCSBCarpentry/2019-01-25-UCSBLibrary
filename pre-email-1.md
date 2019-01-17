@@ -14,7 +14,7 @@ We are dedicated to creating a respectful and inclusive learning environment for
 Coffee, tea, and a light breakfast will be served both days.  Lunch on 
 Friday will be sandwiches and fruit.  Saturday we will have an array 
 of salads.  If you have any specific dietary restrictions, please e-mail 
-[collaboratory@library.ucsb.edu](mailto://collaboratory@library.ucsb.edu) before 5:00pm Tuesday, January 22.
+[collaboratory@library.ucsb.edu](mailto:collaboratory@library.ucsb.edu) before 5:00pm Tuesday, January 22.
 
 We will start promptly at 9:00 am each day.  Breakfast will be available starting at 8:30.
 If you have problems with software installation or configuration, please arrive promptly at
