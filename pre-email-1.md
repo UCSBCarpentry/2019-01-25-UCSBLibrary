@@ -22,7 +22,7 @@ If you have problems with software installation or configuration, please arrive 
 8:30 and the instructors and helpers will be able to assist you during breakfast.  This is
 a hands-on workshop, so having your laptop ready is critical.
 
-We would like to know a little bit more about you.  Please take 30 seconds to fill out [https://goo.gl/forms/sb9Mmh6MSTif8Ywp1](this quick poll).
+We would like to know a little bit more about you.  Please take 30 seconds to fill out [this quick poll](https://goo.gl/forms/sb9Mmh6MSTif8Ywp1).
 
 
 Finally: this is a sold out workshop and we have people on a waiting list.  Please contact ASAP if you
