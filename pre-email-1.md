@@ -7,7 +7,7 @@ There are several steps we would like you to take before the workshop.
 
 Most importantly, install all of the software that we will be using: git, Bash, and R.  There are
 [detailed setup instuctions](https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/index.html#setup) 
-on the workshop website.  Feel free to contact [Jon Jablonski](mailto:jonjab@ucsb.edu) if you have problems 
+on the workshop website.  Feel free to contact [Jon Jablonski](mailto:jonjab@ucsb.edu), [Yuan Wu](mailto:yuanwu@ucsb.edu), or [Sharon Solis](swsolis@ucsb.edu) if you need some help with installation.
 
 Please also review the [Carpentry Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).  We are dedicated to creating a respectful and inclusive learning environment for everyone present.  
   
