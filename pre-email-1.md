@@ -3,8 +3,9 @@ Dear Carpentry attendee:
 Thank you for registering for our UCSB Software Carpentry Workshop.  We are 
 looking forward to spending time with you all.
 
-There are several steps we would like you to take before the workshop.  
-Most importantly, install all of the software that we will be using.  There are
+There are several steps we would like you to take before the workshop. 
+
+Most importantly, install all of the software that we will be using: git, Bash, and R.  There are
 [detailed setup instuctions](https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/index.html#setup) 
 on the workshop website.  Feel free to contact [Jon Jablonski](mailto:jonjab@ucsb.edu) if you have problems 
 
@@ -20,6 +21,9 @@ and you will need your UCSB ID card to enter the building through the Paseo West
 If you have problems with software installation or configuration, please arrive promptly at
 8:30 and the instructors and helpers will be able to assist you during breakfast.  This is
 a hands-on workshop, so having your laptop ready is critical.
+
+We would like to know a little bit more about you.  Please take 30 seconds to fill out  [https://goo.gl/forms/G8vow4RwHM4e8AAW2](this poll)
+
 
 Finally: this is a sold out workshop and we have people on a waiting list.  Please contact ASAP if you
 are unable to attend so that we can open up your seat to someone else.
