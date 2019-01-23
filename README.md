@@ -3,11 +3,18 @@
 This repository was created from The Carpentries' ([Software Carpentry][swc-site], [Data Carpentry][dc-site], and [Library Carpentry][lc-site]'s)
 template for creating websites for workshops.
 
-###Prep List###
+## Prep List ##
   - 1/22 team session
     - pair up to practice our sections
   - 1/23 team session
     - in rm 1312 to practice with a/v equipment
+  - [1/18 email sent](pre-email-1.md)
+  - send survey results to team
+
+## Day of ##
+ - Remind learners to use sticky notes to give feedback
+ - Get feedback at lunch and end of each day using minute cards
+ - Saturday: post helper at Paseo door
 
 
 ## Don't forget to do this:
