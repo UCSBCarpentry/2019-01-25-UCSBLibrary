@@ -9,7 +9,8 @@ template for creating websites for workshops.
   - 1/23 team session
     - in rm 1312 to practice with a/v equipment
   - [1/18 email sent](pre-email-1.md)
-  - send survey results to team
+  - Wednesday am: pre-email-2 to attendees
+  - Thursday: send survey results to team
 
 ## Day of ##
  - Remind learners to use sticky notes to give feedback
