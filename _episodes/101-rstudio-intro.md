@@ -41,7 +41,7 @@ how to plot results graphically. This example starts with a dataset from
 countries through time. Can you read the data into R? Can you plot the population for
 Senegal? Can you calculate the average income for countries on the continent of Asia?
 By the end of these lessons you will be able to do things like plot the populations
-for all of these countries in under a minute!
+for all of these countries in under a minute.
 
 ## Before Starting The Workshop
 
