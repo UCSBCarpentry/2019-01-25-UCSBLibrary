@@ -16,6 +16,9 @@ template for creating websites for workshops.
  - Remind learners to use sticky notes to give feedback
  - Get feedback at lunch and end of each day using minute cards
  - Saturday: post helper at Paseo door
+ - Time cards
+ - Index cards
+ - stickies
 
 
 ## Don't forget to do this:
