@@ -66,8 +66,7 @@ project.
 > 2. Click "New Directory".
 > 3. Click "New Project".
 > 4. Type in the name of the directory to store your project, e.g. "my_project".
-> 5. If available, select the checkbox for "Create a git repository."
-> 6. Click the "Create Project" button.
+> 5. Click the "Create Project" button.
 {: .challenge}
 
 Now when we start R in this project directory, or open this project with RStudio,
