@@ -815,7 +815,7 @@ Error in rm(list <- ls()): ... must contain names or character strings
 
 ## R Packages
 
-R comes with a lot of built in functions, like the mathematical ones we used before (e.g., sin(), exp()), and any function can be created to perform lots of operations, form simple things like editing text, to complicated machine learning algorithms. These functions are distributed in what are called packages, which are groups of functions.
+R comes with a lot of built in functions, like the mathematical ones we used before (e.g., sin(), exp()), and new functions can be created to perform operations, from simple things like editing text, to complicated machine learning algorithms. These functions are created and distributed in what are called packages, which are groups of functions.
 
 It is possible to add functions to R by writing a package, or by
 obtaining a package written by someone else. As of this writing, there
