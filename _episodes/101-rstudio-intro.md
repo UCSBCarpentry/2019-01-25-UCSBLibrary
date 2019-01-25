@@ -634,6 +634,55 @@ This is incredibly powerful; we will discuss this further in an
 upcoming lesson.
 
 
+> ## Challenge 2
+>
+> What will be the value of each  variable  after each
+> statement in the following program?
+>
+> 
+> ~~~
+> mass <- 47.5
+> age <- 122
+> mass <- mass * 2.3
+> age <- age - 20
+> ~~~
+> {: .language-r}
+>
+> > ## Solution to challenge 2
+> >
+> > 
+> > ~~~
+> > mass <- 47.5
+> > ~~~
+> > {: .language-r}
+> > This will give a value of 47.5 for the variable mass
+> >
+> > 
+> > ~~~
+> > age <- 122
+> > ~~~
+> > {: .language-r}
+> > This will give a value of 122 for the variable age
+> >
+> > 
+> > ~~~
+> > mass <- mass * 2.3
+> > ~~~
+> > {: .language-r}
+> > This will multiply the existing value of 47.5 by 2.3 to give a new value of
+> > 109.25 to the variable mass.
+> >
+> > 
+> > ~~~
+> > age <- age - 20
+> > ~~~
+> > {: .language-r}
+> > This will subtract 20 from the existing value of 122 to give a new value
+> > of 102 to the variable age.
+> {: .solution}
+{: .challenge}
+
+
 ## Managing your environment
 
 There are a few useful commands you can use to interact with the R session.
@@ -777,54 +826,6 @@ network). R and RStudio have functionality for managing packages:
 * You can update installed packages by typing `update.packages()`
 * You can remove a package with `remove.packages("packagename")`
 * You can make a package available for use with `library(packagename)`
-
-> ## Challenge 2
->
-> What will be the value of each  variable  after each
-> statement in the following program?
->
-> 
-> ~~~
-> mass <- 47.5
-> age <- 122
-> mass <- mass * 2.3
-> age <- age - 20
-> ~~~
-> {: .language-r}
->
-> > ## Solution to challenge 2
-> >
-> > 
-> > ~~~
-> > mass <- 47.5
-> > ~~~
-> > {: .language-r}
-> > This will give a value of 47.5 for the variable mass
-> >
-> > 
-> > ~~~
-> > age <- 122
-> > ~~~
-> > {: .language-r}
-> > This will give a value of 122 for the variable age
-> >
-> > 
-> > ~~~
-> > mass <- mass * 2.3
-> > ~~~
-> > {: .language-r}
-> > This will multiply the existing value of 47.5 by 2.3 to give a new value of
-> > 109.25 to the variable mass.
-> >
-> > 
-> > ~~~
-> > age <- age - 20
-> > ~~~
-> > {: .language-r}
-> > This will subtract 20 from the existing value of 122 to give a new value
-> > of 102 to the variable age.
-> {: .solution}
-{: .challenge}
 
 
 > ## Challenge 3
