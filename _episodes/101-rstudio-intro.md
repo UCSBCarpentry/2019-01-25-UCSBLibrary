@@ -634,6 +634,7 @@ This is incredibly powerful; we will discuss this further in an
 upcoming lesson.
 
 
+
 > ## Challenge 2
 >
 > What will be the value of each  variable  after each
