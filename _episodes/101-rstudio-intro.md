@@ -833,11 +833,11 @@ network). R and RStudio have functionality for managing packages:
 
 
 
-> ## Challenge 5
+> ## Challenge 3
 >
 > Install the following packages: `ggplot2`, `plyr`, `gapminder`
 >
-> > ## Solution to challenge 5
+> > ## Solution to challenge 3
 > >
 > > We can use the `install.packages()` command to install the required packages.
 > > 
