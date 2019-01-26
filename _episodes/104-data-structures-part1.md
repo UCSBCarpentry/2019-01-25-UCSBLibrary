@@ -260,8 +260,9 @@ No matter how
 complicated our analyses become, all data in R is interpreted as one of these
 basic data types. This strictness has some really important consequences.
 
-A user has added details of another cat. This information is in the file
-`data/feline-data_v2.csv`.
+Let's add details of another cat. We will create a file called
+`data/feline-data_v2.csv`. We will do this using our Nano text editor. 
+
 
 
 
