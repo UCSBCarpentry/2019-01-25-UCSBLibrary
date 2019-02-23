@@ -1,0 +1,126 @@
+	Introductions
+Jon.  Librarian.  Pink dunkin donuts.
+
+
+
+Katja Seltmann I like Krispie Kreem plain doughnut! Director of Cheadle Center for Biodiversity and Ecological Restoration here at UCSB. I also really like insects.
+Swati Chattopadhyay, Faculty, History of Art and Architecture, buttermilk
+Mary Donovan. Postdoc in Marine Science. Chocolate frosting
+Greg Janée, Director, Data Curation Program, anything chocolate, the more chocolate the better
+Maya Chatterjee, senior undergrad in Sociology. Maple doughnuts!
+Erica Got0, graduate student in Geography, not a dougnut fan
+Sam Csik, Graduate Student in EEMB, apple cider donuts, but they have to be from the east coast :) !
+Jeff Bellomi, graduate student in Comparative Literature, donut ambivalent
+Justice, Grad Student
+Amelia Ritger, PhD student in EEMB, pistachio donut
+Kelly Speare, PhD Student in EEMB, Krispy Kreme! 
+Giorgina Paiella, graduate student in English
+Melanie Adams, First-year PhD student in Mechanical Engineering, prefers cake
+Marty Downs, LTER Network Communications Office at NCEAS. Boston Creme Donuts rock.
+Brad Hill, Bren Staff, devil's food (chocolate cake) 
+David Cleveland, Research Professor, Env Studies & Geography. Donut agnostic.
+Sharon Solis, Research Computing Consultant, glaze cake crumble all of it
+Yuan Wu, library staff
+
+Ian Lessing - Library IT programmer, old fashioned donuts everyday 
+Haoanan Sun, PhD student in Geography, chocolate
+Dandan Liu, PhD student in GIS, donut and chocolate
+trang ~ library staff  ~ helpful books: https://rstudio-education.github.io/hopr/index.html
+                                   https://bookdown.org/yihui/rmarkdown/
+  I can lend you mine.
+  
+
+I forgot a power adapter. I'm fine for now, but at some point, I'll need to borrow one (Mac).
+
+wikipedia:
+The caret was originally and continues to be used in handwritten form as a proofreading mark to indicate where a punctuation mark, word, or phrase should be inserted into a document. The term comes from the Latin caret, "it lacks", from carēre, "to lack; to be separated from; to be free from" <----nice
+
+ASK US QUESTIONS!!
+
+Anyone else having problems with the - and ~ commands on Windows computers? Any suggestions for alternative commands in Windows? Specifically regarding the - for previous and ~ for home directory.
+'-' for previous command?  Should be up arrow.
+Correct, up arrow will retrieve the most recently run command.  "-" refers to the previous directory only for the cd command
+~ for home on Windows = $HOME
+so I should type in cd $HOME to get to the home directory? (it also doesn't work) and I was referring to the command cd - or cd ~ in order to get to previous dir or home dir, respectively
+Yes, $HOME = home directory, not working for you?
+"cannot find the path specified"
+I mean, if I type in cd/ it takes me ALL the way to my "home" C:// but that's no fun (unless C:// is what "home" is referring to?
+Put up red stickie and I'll take a l
+
+
+Vertical bar - Wikipedia
+https://en.wikipedia.org/wiki/Vertical_bar
+	1. 
+	1. 
+The vertical bar ( ) is a computer character and glyph with various uses in mathematics, computing, and typography. It has many names, often related to particular meanings: Sheffer stroke (in logic), verti-bar, vbar, stick, vertical line, vertical slash, bar, pike, or pipe, and several variants on these names.
+
+
+Pre-lunch Feedback
+	-- One thing you learned or liked
+	-- One thing you are confused about
+	
+Greg made a handy power point that shows the flow of Git and conflict resolution:
+    https://ucsbcarpentry.github.io/2019-01-25-UCSBLibrary/fig/git-conflict.pptx
+    
+Git help? Lots of great stuff out there on the internet 
+ https://www.git-tower.com/blog/git-cheat-sheet/
+ 
+ r-studio cheatsheet
+ https://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf
+ 
+
+
+LINK TO DATA USED IN R LESSION
+https://raw.githubusercontent.com/swcarpentry/r-novice-gapminder/gh-pages/_episodes_rmd/data/gapminder_data.csv
+
+weve seen an issue on osx with rstudio and git, mainly with those who did os updates, it's almost like osx has installed a version of git that doesn't agree with rstudio even though the path is correct. downloading and installing git again and pointing to the new location it installs in will fix it generally (after rstudio restart).
+
+Does anyone know/remember the purpose of creating .gitignore? <- to tell git what to ignore. Things not to look at like password files or large files.<- why/when would you use this in a github repo for data analsyis/sharing, like what Mary was talking about with her real-life examples? <- I use if for every project I do, even if not collaborating with other people. Its a great way for me to manage and backup my code. Okay! So it's like for all the files/data you're not actively working on? Or old versions of your data/analysis? <- things I am actively working on and some that are "finished" and even some that are just dead in the water. I put it all up on github but not necessarily within .gitignore?
+
+This is obnoxious, but is there any way to edit a file within R Studio and save the file within the terminal part of R Studio? Instead of clicking the save button (eye roll) <- dont think so. The file is modified in the GUI memory and I am not sure R Studio has a commannd line interface for the GUI  That's what I was thinking. Since you're editing it in a different location. But then once you save the file in R Studio you can manually push it to github through the terminal if you really want to. <- yep! I find git through terminal is actually easier Thank you!
+thanks for sharing!
+
+Is there any way to get around the levels(cats$coat) <- c(levels(cats$coat), "tortoiseshell") requirement for adding new rows that contain factors?
+Mary answered it. Here's my code (in case anyone was curious), with a bunch of different iterations to make sure I addressed everything
+#create a data frame with my personal information
+df<-data.frame(name=c("Amelia"),
+               surname=c("Ritger"),
+               lucky_number=c(28),
+               stringsAsFactors = FALSE) #stringsAsFactors forces "amelia" and "ritger" are not factors
+#add coffee as an option
+coffee<-c(FALSE)
+df<-cbind(df,coffee)
+#add my neighbor as an option
+df<-rbind(df, c("Sam", "Niday", 11, TRUE))
+#add color as an option
+color<-c("blue","purple")
+df<-cbind(df,color)
+#add another neighbor as an option
+df$color<-as.character(df$color)
+df<-rbind(df, c("Mary","Donovan",2,FALSE,"red"))
+
+
+One alternative for log transforming values in ggplot is simply to log10 the variable within the ggplot layer (instead of using scale_x_log10):
+ggplot(data=data, aes(x=log10(gdpPercap),y=lifeExp,by=country))+
+  geom_point(aes(color=continent))
+
+
+ggplot cheatsheet <- https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf
+beautiful ggplots <- http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html
+tidyverse <- https://www.tidyverse.org/
+
+Mary's project repos:
+    https://github.com/fishymary?tab=repositories
+	
+
+
+Welcome to The Carpentries Etherpad!
+
+
+This pad is synchronized as you type, so that everyone viewing this page sees the same text. This allows you to collaborate seamlessly on documents.
+
+Use of this service is restricted to members of the Software Carpentry and Data Carpentry community; this is not for general purpose use (for that, try etherpad.wikimedia.org).
+
+Users are expected to follow our code of conduct: https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html
+
+All content is publicly available under the Creative Commons Attribution License: https://creativecommons.org/licenses/by/4.0/
